@@ -1,0 +1,16 @@
+
+                            
+/* TEAM template from http://humanstxt.org/Standard.html */
+                         
+Mrs Clean: Mrs00Clean001.                        
+Site: https://www.tumblr.com/blog/mrs00clean001                           
+Twitter: https://twitter.com/Mrs00Clean001                         
+Location: Earth, Planet.                 
+                        [...]
+/* THANKS for the template */
+Name: #MrsClean
+                        [...]             
+/* SITE */
+Last update: 2019/03/15                           
+Components: notsure, MrsClean
+Software: github, notepad, twitter
