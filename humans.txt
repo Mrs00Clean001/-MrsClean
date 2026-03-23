@@ -3,8 +3,8 @@
 /* TEAM template from http://humanstxt.org/Standard.html */
                          
 Mrs Clean: Mrs00Clean001.                        
-Site: https://www.tumblr.com/blog/mrs00clean001                           
-Twitter: https://twitter.com/Mrs00Clean001                         
+Site: Under Construction                      
+Twitter: Twitter sucks now, so no twitter lol                         
 Location: Earth, Planet.                 
                         [...]
 /* THANKS for the template */
@@ -12,5 +12,5 @@ Name: #MrsClean
                         [...]             
 /* SITE */
 Last update: 2026/03/22                           
-Components: notsure, MrsClean
+Components: notsure
 Software: github, notepad, twitter
